@@ -15,4 +15,5 @@ The primary source of the Data used here is Sales Data.csv and this was provided
   3. For Data Visualization
 
 - SQL - Structured Query Language for Quering of data
+- Power BI for Data Analysis and Visualization
 - GitHub for portfolio Building
