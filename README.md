@@ -13,7 +13,13 @@ The primary source of the Data used here is Sales Data.csv and this was provided
   1. For Data Cleaning
   2. For Data Analysis
   3. For Data Visualization
-
+  
 - SQL - Structured Query Language for Quering of data
 - Power BI for Data Analysis and Visualization
 - GitHub for portfolio Building
+
+### Data Cleaning and Preparations
+In the initial phase of the data cleaning and preparations, we perform the following actions;
+1. Data Loading and Inspection
+2. Handling missing variables
+3. Data cleaning and Formatting
