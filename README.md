@@ -66,7 +66,7 @@ WHERE REGION = NORTH
 ```
 
 ### Calculation and Pivot Tables
-
+---
 ![SALES DATA PIVOT TABLE2](https://github.com/user-attachments/assets/7bb2d607-8354-4db6-a8bc-99e5de7280cf)
 
 
@@ -77,9 +77,23 @@ WHERE REGION = NORTH
 
 
 ### Data Visualization
-
+---
 
 ![CAPSTONE PROJECT SALES DATA DASHBOARD](https://github.com/user-attachments/assets/d4fb7ca4-9376-4736-90b8-d3e8cb7ed85f)
 
 
 ![CAPSTONE PROJECT SALES DATA VISUALIZATION](https://github.com/user-attachments/assets/7423dcb7-959e-4247-9fc4-5eaf5b1fcd1f)
+
+
+### Inferences
+---
+
+- Revenue/Total Sales Trends
+  
+1. The South region had the highest revenue followed by the East, then the North while the lowest Revenue comes from the West.
+2. Shoe had the highest sales with a percentage of 29.19% while the lowest sales come from Socks with a percentage of 8.60%.
+   
+- Products by the Quantity Sold: Hats gave the highest Quantity Sold while the lowest quantity sold also comes from Socks
+
+- Revenue by the Year: 2023 had the highest Revenue when compared to year 2024
+
