@@ -46,3 +46,7 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
+![CAPSTONE PROJECT SALES DATA DASHBOARD](https://github.com/user-attachments/assets/d4fb7ca4-9376-4736-90b8-d3e8cb7ed85f)
+
+
+![CAPSTONE PROJECT SALES DATA VISUALIZATION](https://github.com/user-attachments/assets/7423dcb7-959e-4247-9fc4-5eaf5b1fcd1f)
