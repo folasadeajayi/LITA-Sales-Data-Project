@@ -44,8 +44,8 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis;
 
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+SELECT * FROM SALES DATA
+WHERE REGION = NORTH
 ```
 
 ### Data Visualization
