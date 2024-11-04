@@ -2,6 +2,10 @@
 
 ### Project Title: Capstone Sales performance Analysis
 
+Project Overview
+ Data Sources
+Tools Used  
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insights into the sales performance of the Lita sales project data over the past year. By analyzing the various parameters in the data received and getting enough insight to make reasonable decisions which helps us to tell compelling stories around our data and to know the best performance from our data.
