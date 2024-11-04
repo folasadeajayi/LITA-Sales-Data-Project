@@ -95,5 +95,12 @@ WHERE REGION = NORTH
    
 - Products by the Quantity Sold: Hats gave the highest Quantity Sold while the lowest quantity sold also comes from Socks
 
-- Revenue by the Year: 2023 had the highest Revenue when compared to year 2024
+- Revenue by the Year: 2023 had the highest Revenue when compared to year 2024 which is as a result of the fact that there are just eight months in the Data for 2024 as compared to the 2023 which has the twelve months completed. comparing the average Revenue for both year, 2024 had a higher average revenue.
+
+### Conclusions
+---
+- The average Revenue from the year 2023 and 2024 shows an increase in Revenue from 2023-2024 across the four regions which calls for the company to keep giving its best and promote increase in its revenue from year to year.
+
+- The company should supply more product to the South with the highest Revenue and work towards boosting the sales in the West.
+- There should be increase in the production Shirts while efforts should be put in place to increase the Sales of the Socks.
 
