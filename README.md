@@ -63,7 +63,7 @@ SELECT * FROM SALES DATA
 WHERE REGION = NORTH
 ```
 
-### Data Visualization
+### Calculation and Pivot Tables
 
 ![SALES DATA PIVOT TABLE2](https://github.com/user-attachments/assets/7bb2d607-8354-4db6-a8bc-99e5de7280cf)
 
@@ -72,6 +72,9 @@ WHERE REGION = NORTH
 
 
 ![SALES DATA EXCEL CALCULATIONS](https://github.com/user-attachments/assets/b7c168a0-36b4-48bb-a315-02008dd9ae1a)
+
+
+### Data Visualization
 
 
 ![CAPSTONE PROJECT SALES DATA DASHBOARD](https://github.com/user-attachments/assets/d4fb7ca4-9376-4736-90b8-d3e8cb7ed85f)
