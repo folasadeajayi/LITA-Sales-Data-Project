@@ -6,13 +6,19 @@
 
 [Data Sources](#data-sources)
 
-Tools Used 
-Data Cleaning and Preparations
-Exploratory Data Analysis
-Data Analysis 
-Data Visualization
-Inferences
-Conclusion
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[Data Visualization](data-visualization)
+
+[Inferences](inferences)
+
+[Conclusion](conclusion)
 
 
 ### Project Overview
