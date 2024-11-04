@@ -14,6 +14,8 @@
 
 [Data Analysis](data-analysis)
 
+[Calculation and Pivot Tables](calculation-and-pivot-tables)
+
 [Data Visualization](data-visualization)
 
 [Inferences](inferences)
