@@ -2,9 +2,18 @@
 
 ### Project Title: Capstone Sales performance Analysis
 
-Project Overview
- Data Sources
-Tools Used  
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+Tools Used 
+Data Cleaning and Preparations
+Exploratory Data Analysis
+Data Analysis 
+Data Visualization
+Inferences
+Conclusion
+
 
 ### Project Overview
 ---
